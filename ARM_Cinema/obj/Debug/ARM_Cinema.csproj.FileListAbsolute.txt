@@ -1,0 +1,13 @@
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.csproj.AssemblyReference.cache
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.LoginForm.resources
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.Properties.Resources.resources
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.csproj.GenerateResource.cache
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\bin\Debug\ARM_Cinema.exe.config
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\bin\Debug\ARM_Cinema.exe
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\bin\Debug\ARM_Cinema.pdb
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\bin\Debug\MaterialSkin.dll
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.csproj.CopyComplete
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.exe
+C:\Users\vfrolov\Documents\GitHub\ARM_Cinema\ARM_Cinema\obj\Debug\ARM_Cinema.pdb
